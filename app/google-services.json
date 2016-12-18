@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360329149840",
+    "firebase_url": "https://blogit-88358.firebaseio.com",
+    "project_id": "blogit-88358",
+    "storage_bucket": "blogit-88358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360329149840:android:df5c1f04fe925e27",
+        "android_client_info": {
+          "package_name": "com.jeff.blogit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360329149840-8icgmh9kqa0gl7rg83skh1kv54c9i0c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmqO6z7l9Jvqc3TpjbM9XAXCJdmC6i88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
